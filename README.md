@@ -23,7 +23,7 @@
 <p align="center">
   <b>Things I code with:</b>
   <br>
-  <table>
+  <table align="center">
     <td>
         <img alt="Python" src="https://img.shields.io/badge/-Python-3776ab?style=for-the-badge&logo=python&logoColor=white"/>
         <img alt="Flask" src="https://img.shields.io/badge/-Flask-9cf?style=for-the-badge&logo=flask&logoColor=white"/>
