@@ -31,7 +31,7 @@
         <br>
         <img alt="Bash" src="https://img.shields.io/badge/-Bash-45b8d8?style=for-the-badge&logo=GNU-bash&logoColor=white"/>
         <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-dd4814?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-        <img alt="Windows" src="https://img.shields.io/badge/-Windows-05529c?style=for-the-badge&logo=windows&logoColor=white"/>
+        <img alt="Docker" src="https://img.shields.io/badge/-Docker-05529c?style=for-the-badge&logo=docker&logoColor=white"/>
         <br>
         <img alt="git" src="https://img.shields.io/badge/-Git-ea2845?style=for-the-badge&logo=git&logoColor=white"/>
         <img alt="github" src="https://img.shields.io/badge/-Github-2b2a33?style=for-the-badge&logo=github&logoColor=white"/>
