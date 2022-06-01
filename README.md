@@ -2,7 +2,7 @@
 <img height="300" src="https://raw.githubusercontent.com/emp7yhead/emp7yhead/master/content/Background.png" alt="Banner">
 </p>
 
-<h1 align="center"> Nice to see you here!<img alt="hello" img src="https://raw.githubusercontent.com/emp7yhead/emp7yhead/master/content/wave.gif" width="30px"></h1>
+<h1 align="center"> Nice to see you here!<img alt="hello" img src="https://raw.githubusercontent.com/emp7yhead/emp7yhead/master/content/wave.gif" width="30"></h1>
 
 <p align="center"> Welcome to my page! <br> I'm Artyom, currently learning Python and dreaming of working as a real developer.</p>
 
