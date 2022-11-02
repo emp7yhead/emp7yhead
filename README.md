@@ -1,6 +1,5 @@
-<h1 align="center"> Nice to see you here!<img alt="hello" img src="https://raw.githubusercontent.com/emp7yhead/emp7yhead/master/content/wave.gif" width="30"></h1>
-
-<p align="center"> Welcome to my page! <br> I'm Artyom, currently learning Node.js and working as a python developer.</p>
+<h3 align="center">Nice to see you here!</h3> 
+<p align="center">I'm Artyom, currently learning Node.js and working as a python developer.</p>
 
 <p align="center">
   <b>My contacts:</b>
