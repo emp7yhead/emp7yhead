@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/-telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge">
   </a>
   <a href="https://twitter.com/emp7y_head">
-    <img src="https://img.shields.io/badge/-Twitter-1d9bf0?style=for-the-badge&logo=twitter&logoColor=white" alt="Telegram Badge">
+    <img src="https://img.shields.io/badge/-Twitter-1d9bf0?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge">
   </a>
 </p>
 
