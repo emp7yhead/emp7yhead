@@ -44,7 +44,7 @@
 
 <p align="center">
   <br>
-    <img src="https://github-readme-stats.vercel.app/api?username=emp7yhead&hide=stars,issues&show_icons=true&theme=radical" alt="emp7yhead's Github Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=emp7yhead&show_icons=true&theme=radical" alt="emp7yhead's Github Stats">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=b1ldaas2ntvh7s9ch7s9us1ct&count=2&unique=true" alt="Spotify Stats">
 </p>
 
