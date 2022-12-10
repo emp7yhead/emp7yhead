@@ -21,15 +21,15 @@
   <table align="center">
     <td>
         <img alt="Python" src="https://img.shields.io/badge/-Python-3776ab?style=for-the-badge&logo=python&logoColor=white"/>
-        <img alt="Flask" src="https://img.shields.io/badge/-Flask-9cf?style=for-the-badge&logo=flask&logoColor=white"/>
-        <img alt="VSCode" src="https://img.shields.io/badge/-VSCode-0066b8?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+        <img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white"/>
+        <img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=Django&logoColor=white"/>
         <br>
-        <img alt="Bash" src="https://img.shields.io/badge/-Bash-45b8d8?style=for-the-badge&logo=GNU-bash&logoColor=white"/>
+        <img alt="git" src="https://img.shields.io/badge/-Git-ea2845?style=for-the-badge&logo=git&logoColor=white"/>
         <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-dd4814?style=for-the-badge&logo=ubuntu&logoColor=white"/>
         <img alt="Docker" src="https://img.shields.io/badge/-Docker-05529c?style=for-the-badge&logo=docker&logoColor=white"/>
         <br>
-        <img alt="git" src="https://img.shields.io/badge/-Git-ea2845?style=for-the-badge&logo=git&logoColor=white"/>
-        <img alt="github" src="https://img.shields.io/badge/-Github-2b2a33?style=for-the-badge&logo=github&logoColor=white"/>
+        <img alt="Bash" src="https://img.shields.io/badge/-Bash-45b8d8?style=for-the-badge&logo=GNU-bash&logoColor=white"/>
+        <img alt="Neovim" src="https://img.shields.io/badge/-Neovim-57A143?style=for-the-badge&logo=Neovim&logoColor=white"/>
         <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-311C87?style=for-the-badge&logo=github-actions&logoColor=white"/>
         <br>
         <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
