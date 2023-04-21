@@ -1,6 +1,6 @@
-<h3 align="center">Nice to see you here!</h3> 
+<img src="https://komarev.com/ghpvc/?username=emp7yhead&style=flat-square" alt="Profile views" align="right">
+<h3 align="center">Nice to see you here!</h3>
 <p align="center">I'm Artyom, currently learning Node.js and working as a python developer.</p>
-
 <p align="center">
   <b>My contacts:</b>
   <br>
@@ -47,9 +47,3 @@
     <img src="https://github-readme-stats.vercel.app/api?username=emp7yhead&show_icons=true&theme=radical" alt="emp7yhead's Github Stats">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=b1ldaas2ntvh7s9ch7s9us1ct&count=2&unique=true" alt="Spotify Stats">
 </p>
-
-
-
-
-
-
