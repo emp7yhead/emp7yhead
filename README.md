@@ -24,8 +24,8 @@
       <img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=Django&logoColor=white"/>
       <br>
       <img alt="GitLab" src="https://img.shields.io/badge/-GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
-      <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-dd4814?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-      <img alt="Docker" src="https://img.shields.io/badge/-Docker-05529c?style=for-the-badge&logo=docker&logoColor=white"/>
+      <img alt="Arch" src="https://img.shields.io/badge/-btw i use arch-1793D1?style=for-the-badge&logo=archlinux&logoColor=white"/>
+      <img alt="Bash" src="https://img.shields.io/badge/-Bash-45b8d8?style=for-the-badge&logo=GNU-bash&logoColor=white"/>
       <br>
       <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
       <img alt="CSS3" src="https://img.shields.io/badge/-css3-2088FF?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -37,7 +37,7 @@
       <br>
       <img alt="mariadb" src="https://img.shields.io/badge/-mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
       <img alt="redis" src="https://img.shields.io/badge/-redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-      <img alt="Bash" src="https://img.shields.io/badge/-Bash-45b8d8?style=for-the-badge&logo=GNU-bash&logoColor=white"/>
+      <img alt="Docker" src="https://img.shields.io/badge/-Docker-05529c?style=for-the-badge&logo=docker&logoColor=white"/>
     </td>
     <td>
       <img alt="me working" width="320" src="https://raw.githubusercontent.com/emp7yhead/emp7yhead/master/content/work-work.webp">
